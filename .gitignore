@@ -1,0 +1,12 @@
+#binaries
+player
+*.out
+*.o
+
+#editor
+*.swp
+*.swo
+*~
+
+#build
+build/
